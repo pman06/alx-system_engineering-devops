@@ -1,0 +1,5 @@
+root@830dad31b52f:~/alx-system_engineering-devops/0x03-shell_variables_expansions# sed -n 'n:p' < quote
+sed: -e expression #1, char 2: extra characters after command
+root@830dad31b52f:~/alx-system_engineering-devops/0x03-shell_variables_expansions# sed -n 'n:p' quote
+sed: -e expression #1, char 2: extra characters after command
+root@830dad31b52f:~/alx-system_engineering-devops/0x03-shell_variables_expansions# ls
