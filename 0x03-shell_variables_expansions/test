@@ -1,5 +1,34 @@
-root@830dad31b52f:~/alx-system_engineering-devops/0x03-shell_variables_expansions# sed -n 'n:p' < quote
-sed: -e expression #1, char 2: extra characters after command
-root@830dad31b52f:~/alx-system_engineering-devops/0x03-shell_variables_expansions# sed -n 'n:p' quote
-sed: -e expression #1, char 2: extra characters after command
-root@830dad31b52f:~/alx-system_engineering-devops/0x03-shell_variables_expansions# ls
+Graphics & Design
+Digital Marketing
+Writing & Translation
+Video & Animation
+Music & Audio
+Programming & Tech
+Business
+Lifestyle
+Trending
+Andrea, Fashion Designer
+Moon, Marketing Expert
+Ritika, Shoemaker and Designer
+Zach, Bar Owner
+Gabrielle, Video Editor
+Find the perfect freelance services for your business
+Try "building mobile app"
+Search
+Popular:
+Website Design
+WordPress
+Logo Design
+NFT Art
+Trusted by:
+facebook
+Google
+NETFLIX
+P&G
+PayPal
+Popular professional services
+A whole world of freelance talent at your fingertips
+The best for every budget
+Find high-quality services at every price point. No hourly rates, just project-based pricing.
+Quality work done quickly
+Find the right freelancer to begin working on your project within minutes.
